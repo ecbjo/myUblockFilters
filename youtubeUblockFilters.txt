@@ -37,6 +37,13 @@ youtube.com##.style-scope.ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per
 ! rounded corners fix
 youtube.com###ytd-player:style(border-radius: 0 !important;)
 youtube.com###thumbnail:style(border-radius: 0 !important;) 
+youtube.com##.ytSearchboxComponentInputBox:style(border-radius: 0px 0 0 0px !important;)
+youtube.com##.ytSearchboxComponentSearchButtonDark:style(border-radius: 0px 0 0 0px !important;)
 
 !tooltips
 youtube.com##.ytp-tooltip:not(.ytp-preview)
+
+!buttons
+youtube.com###voice-search-button
+youtube.com##ytd-download-button-renderer
+youtube.com##yt-button-view-model:has([aria-label="Thanks"], [aria-label="Join"], [aria-label="Share"], [aria-label="Clip"])
