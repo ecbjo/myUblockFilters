@@ -48,5 +48,8 @@ youtube.com###voice-search-button
 youtube.com##ytd-download-button-renderer
 youtube.com##yt-button-view-model:has([aria-label="Thanks"], [aria-label="Join"], [aria-label="Share"], [aria-label="Clip"])
 
+!playlist blur background
+www.youtube.com##.page-header-view-model-wiz__page-header-background
+
 !imdb blur
 imdb.com##.ipc-page-background:style(background-image: none !important;)
