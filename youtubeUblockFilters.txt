@@ -47,3 +47,6 @@ youtube.com##.ytp-tooltip:not(.ytp-preview)
 youtube.com###voice-search-button
 youtube.com##ytd-download-button-renderer
 youtube.com##yt-button-view-model:has([aria-label="Thanks"], [aria-label="Join"], [aria-label="Share"], [aria-label="Clip"])
+
+!imdb blur
+imdb.com##.ipc-page-background:style(background-image: none !important;)
