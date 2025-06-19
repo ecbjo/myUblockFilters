@@ -69,6 +69,7 @@ youtube.com##.ytSearchboxComponentInputBox:style(border-radius: 0px 0 0 0px !imp
 youtube.com##.ytSearchboxComponentSearchButtonDark:style(border-radius: 0px 0 0 0px !important;)
 youtube.com###description.ytd-watch-metadata:style(border-radius: 0px !important;)
 youtube.com##.shortsLockupViewModelHostThumbnailContainerRounded:style(border-radius: 0 !important;)
+youtube.com##.anchored-panel.ytd-shorts:style(border-radius: 0 !important;)
 
 !tooltips
 youtube.com##.ytp-tooltip:not(.ytp-preview)
@@ -83,6 +84,9 @@ youtube.com##.page-header-view-model-wiz__page-header-background
 
 !country code
 youtube.com###country-code
+
+!create bg
+youtube.com##.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--tonal:style(background: rgba(255,255,255,0.0) !important;)
 
 !imdb blur
 imdb.com##.ipc-page-background:style(background-image: none !important;)
