@@ -68,6 +68,8 @@ youtube.com##.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--tona
 youtube.com##.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal:style(background: rgba(255,255,255,0.0) !important;)
 !create plus icon
 !youtube.com##.yt-spec-button-shape-next__icon
+!short scrubber width
+youtube.com##.desktopShortsPlayerControlsWizHost:style(right: 0 !important; left: 0 !important;)
 !
 !!
 !!!IMDb
