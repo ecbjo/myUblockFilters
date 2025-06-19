@@ -81,5 +81,8 @@ youtube.com##yt-button-view-model:has([aria-label="Thanks"], [aria-label="Join"]
 !playlist blur background
 youtube.com##.page-header-view-model-wiz__page-header-background
 
+!country code
+youtube.com###country-code
+
 !imdb blur
 imdb.com##.ipc-page-background:style(background-image: none !important;)
