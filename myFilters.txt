@@ -52,7 +52,11 @@ youtube.com##.ytp-tooltip:not(.ytp-preview)
 youtube.com###voice-search-button
 youtube.com##ytd-download-button-renderer
 youtube.com##yt-button-view-model:has([aria-label="Thanks"], [aria-label="Join"], [aria-label="Share"], [aria-label="Clip"])
-!playlist blur background
+!playlists
+youtube.com##.immersive-header-container.ytd-playlist-header-renderer:style(border-radius: 0 !important;)
+youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-background-wrapper
+youtube.com##.image-wrapper.ytd-hero-playlist-thumbnail-renderer:style(border-radius: 0 !important;)
+youtube.com##.yt-content-preview-image-view-model-wiz--large-rounded-image:style(border-radius: 0 !important;)
 youtube.com##.page-header-view-model-wiz__page-header-background
 !country code
 youtube.com###country-code
