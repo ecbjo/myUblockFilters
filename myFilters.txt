@@ -49,6 +49,7 @@ youtube.com##.anchored-panel.ytd-shorts:style(border-radius: 0 !important;)
 youtube.com##.player-container.ytd-reel-video-renderer:style(border-radius: 0 !important;)
 youtube.com##.reel-video-in-sequence-thumbnail.ytd-shorts:style(border-radius: 0 !important;)
 youtube.com##.metadata-container.ytd-reel-player-overlay-renderer:style(border-radius: 0 0 0 0 !important;)
+youtube.com##ytd-multi-page-menu-renderer:style(border-radius: 0 !important;)
 !tooltips
 youtube.com##.ytp-tooltip:not(.ytp-preview)
 !buttons
