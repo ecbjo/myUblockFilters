@@ -46,6 +46,7 @@ youtube.com##.ytSearchboxComponentSearchButtonDark:style(border-radius: 0px 0 0 
 youtube.com###description.ytd-watch-metadata:style(border-radius: 0px !important;)
 youtube.com##.shortsLockupViewModelHostThumbnailContainerRounded:style(border-radius: 0 !important;)
 youtube.com##.anchored-panel.ytd-shorts:style(border-radius: 0 !important;)
+youtube.com##.player-container.ytd-reel-video-renderer:style(border-radius: 0 !important);
 !tooltips
 youtube.com##.ytp-tooltip:not(.ytp-preview)
 !buttons
