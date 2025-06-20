@@ -93,3 +93,10 @@ imdb.com##:root:style(--ipt-mediaRadius: 0px !important; --ipt-cornerRadius: 0 !
 imdb.com##.ipc-promptable-base.enter-done .ipc-promptable-base__backdrop
 !pro navbar
 imdb.com##.navbar__imdb-pro--toggle
+!
+!!
+!!!Chatib
+!!
+!
+chatib.us##.msg_history:style(height: 600px !important;)
+chatib.us###messages_container:style(min-height: 600px !important;)
