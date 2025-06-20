@@ -87,3 +87,5 @@ youtube.com##.ytChipShapeActive:style(background-color: rgba(255,255,255,0.5) !i
 imdb.com##.ipc-page-background:style(background-image: none !important;)
 !rounded posters
 imdb.com##:root:style(--ipt-mediaRadius: 0px !important; --ipt-cornerRadius: 0 !important;)
+!backdrop
+imdb.com##.ipc-promptable-base.enter-done .ipc-promptable-base__backdrop
