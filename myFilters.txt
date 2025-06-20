@@ -78,7 +78,7 @@ youtube.com##.desktopShortsPlayerControlsWizHost:style(right: 0 !important; left
 !chip
 youtube.com##.ytChipShapeChip:style(height: 25px !important;)
 youtube.com##.ytChipShapeInactive:style(background-color: rgba(255,255,255,0.05) !important;)
-youtube.com##.ytChipShapeActive:style(background-color: rgba(255,0,0) !important; color: #ffffff !important;)
+youtube.com##.ytChipShapeActive:style(background-color: rgba(255,0,0,0.1) !important; color: #ffffff !important;)
 !
 !!
 !!!IMDb
