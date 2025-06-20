@@ -89,3 +89,5 @@ imdb.com##.ipc-page-background:style(background-image: none !important;)
 imdb.com##:root:style(--ipt-mediaRadius: 0px !important; --ipt-cornerRadius: 0 !important;)
 !backdrop
 imdb.com##.ipc-promptable-base.enter-done .ipc-promptable-base__backdrop
+!pro navbar
+imdb.com##.navbar__imdb-pro--toggle
