@@ -52,6 +52,7 @@ youtube.com##.metadata-container.ytd-reel-player-overlay-renderer:style(border-r
 youtube.com##ytd-multi-page-menu-renderer:style(border-radius: 0 !important;)
 youtube.com##.ytSuggestionComponentRoundedSuggestion:style(border-radius: 0 !important;)
 youtube.com##.ytSearchboxComponentSuggestionsContainer:style(border-radius: 0 !important;)
+youtube.com##ytd-engagement-panel-section-list-renderer[modern-panels]:not([live-chat-engagement-panel]):style(border-radius: 0 !important;)
 !tooltips
 youtube.com##.ytp-tooltip:not(.ytp-preview)
 !buttons
