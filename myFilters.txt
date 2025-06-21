@@ -112,3 +112,10 @@ chatib.us###messages_container:style(min-height: 600px !important;)
 livescore.com##.C
 livescore.com##.Vi
 livescore.com##.yj
+!rounded corners
+livescore.com##.E:style(border-radius: 0 !important;)
+livescore.com##.sc:style(border-radius: 0 !important;)
+livescore.com##.tp:style(border-radius: 0 !important;)
+livescore.com##.ms:style(border-radius: 0 !important;)
+livescore.com##.ek:style(border-radius: 0 !important;)
+livescore.com##.ah:style(border-radius: 0 !important;)
