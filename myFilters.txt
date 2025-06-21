@@ -148,3 +148,6 @@ livescore.com##.ms:style(border-radius: 0 !important;)
 livescore.com##.ek:style(border-radius: 0 !important;)
 livescore.com##.ah:style(border-radius: 0 !important;)
 livescore.com##.pi:style(border-radius: 0 !important;)
+
+! header
+livescore.com##.Ev:style(background: #00000000 !important; border-bottom: 0 !important;)
