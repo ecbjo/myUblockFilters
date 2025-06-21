@@ -10,32 +10,45 @@
 !!! YouTube
 !!
 !
+
 ! remove pink fade from youtube playback progress bar
 youtube.com##.ytp-play-progress:style(background: #FF0000 !important;)
 youtube.com##ytd-thumbnail-overlay-resume-playback-renderer #progress.ytd-thumbnail-overlay-resume-playback-renderer:style(background: #FF0000 !important;)
+
 ! change color of youtube playback head dot
 youtube.com##html[refresh], [refresh]:style(--yt-spec-static-brand-red: #FF0000 !important; --yt-spec-static-overlay-background-brand: rgba(255, 0, 0, 0.9) !important;)
+
 ! change color of youtube shorts icon    
 youtube.com###icon > .yt-icon-shape.style-scope.yt-icon.yt-spec-icon-shape > div > svg > path:first-of-type:style(fill: #FF0000 !important;)
+
 ! change color of youtube shorts progress bar
 www.youtube.com##.ytProgressBarLineProgressBarPlayed:style(background: #FF0000 !important;)
+
 ! change color of youtube shorts playhead dot
 www.youtube.com##.YtProgressBarPlayheadProgressBarPlayheadDot:style(background-color: #FF0000 !important;)
+
 ! change color of youtube notification badge and font color
 www.youtube.com##.yt-spec-icon-badge-shape__badge:style(background: #CC0000 !important; color: #FFF !important;)
+
 ! remove background transparency from youtube title bar & change color of player settings icon
 youtube.com##html, [light]:style(--yt-frosted-glass-desktop: rgba(255, 255, 255, 1.0) !important; --yt-spec-red-indicator: #FF0000 !important;)
 youtube.com##html[dark], [dark]:style(--yt-frosted-glass-desktop: rgba(15, 15, 15, 1.0) !important; --yt-spec-red-indicator: #FF0000 !important;)
+
 ! change color of youtube refresh progress bar
 youtube.com###progress.yt-page-navigation-progress:style(background: #FF0000 !important;)
+
 ! change color of youtube logo
 youtube.com###logo-icon > .yt-spec-icon-shape.yt-icon.style-scope.yt-icon-shape > div > svg > g:first-of-type > path:first-of-type:style(fill: #FF0000 !important;)
+
 ! change color of youtube link preview icon in video description
 youtube.com##.yt-core-attributed-string--inline-block-mod > img:style(filter: brightness(100%) saturate(100%) hue-rotate(18deg) !important;)
+
 ! change color of youtube live-ring
 youtube.com##.yt-spec-avatar-shape--cairo-refresh.yt-spec-avatar-shape--live-ring::after:style(background: #FF0000 !important;)
+
 ! change item grid count per row
 youtube.com##.style-scope.ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 5;)
+
 ! rounded corners fix
 youtube.com###ytd-player:style(border-radius: 0 !important;)
 youtube.com###thumbnail:style(border-radius: 0 !important;) 
@@ -54,30 +67,39 @@ youtube.com##ytd-multi-page-menu-renderer:style(border-radius: 0 !important;)
 youtube.com##.ytSuggestionComponentRoundedSuggestion:style(border-radius: 0 !important;)
 youtube.com##.ytSearchboxComponentSuggestionsContainer:style(border-radius: 0 !important;)
 youtube.com##ytd-engagement-panel-section-list-renderer[modern-panels]:not([live-chat-engagement-panel]):style(border-radius: 0 !important;)
-!tooltips
+
+! tooltips
 youtube.com##.ytp-tooltip:not(.ytp-preview)
-!buttons
+
+! buttons
 youtube.com###voice-search-button
 youtube.com##ytd-download-button-renderer
 youtube.com##yt-button-view-model:has([aria-label="Thanks"], [aria-label="Join"], [aria-label="Share"], [aria-label="Clip"])
-!playlists
+
+! playlists
 youtube.com##.immersive-header-container.ytd-playlist-header-renderer:style(border-radius: 0 !important;)
 youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-background-wrapper
 youtube.com##.image-wrapper.ytd-hero-playlist-thumbnail-renderer:style(border-radius: 0 !important;)
 youtube.com##.yt-content-preview-image-view-model-wiz--large-rounded-image:style(border-radius: 0 !important;)
 youtube.com##.page-header-view-model-wiz__page-header-background
-!country code
+
+! country code
 youtube.com###country-code
-!search button bg
+
+! search button bg
 youtube.com##.ytSearchboxComponentSearchButtonDark:style(background-color: hsla(0,0%,100%,.0)!important;)
-!create bg
+
+! create bg
 youtube.com##.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--tonal:style(background: rgba(255,255,255,0.0) !important;)
 youtube.com##.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal:style(background: rgba(255,255,255,0.0) !important;)
-!create plus icon
+
+! create plus icon
 !youtube.com##.yt-spec-button-shape-next__icon
-!short scrubber width
+
+! short scrubber width
 youtube.com##.desktopShortsPlayerControlsWizHost:style(right: 0 !important; left: 0 !important;)
-!chip
+
+! chip
 youtube.com##.ytChipShapeChip:style(height: 25px !important;)
 youtube.com##.ytChipShapeInactive:style(background-color: rgba(255,255,255,0.05) !important;)
 youtube.com##.ytChipShapeActive:style(background-color: rgba(255,0,0,0.2) !important; color: #ffffff !important;)
@@ -88,19 +110,24 @@ youtube.com##.ytChipShapeActive:style(background-color: rgba(255,0,0,0.2) !impor
 !
 !bg blur
 imdb.com##.ipc-page-background:style(background-image: none !important;)
-!rounded posters
+
+! rounded posters
 imdb.com##:root:style(--ipt-mediaRadius: 0px !important; --ipt-cornerRadius: 0 !important;)
-!backdrop
+
+! backdrop
 imdb.com##.ipc-promptable-base.enter-done .ipc-promptable-base__backdrop
-!pro navbar
+
+! pro navbar
 imdb.com##.navbar__imdb-pro--toggle
-!video in search results
+
+! video in search results
 imdb.com##.searchResult--video
 !
 !!
-!!!Chatib
+!!! Chatib
 !!
 !
+! chat box
 chatib.us##.msg_history:style(height: 600px !important;)
 chatib.us###messages_container:style(min-height: 600px !important;)
 !
@@ -108,14 +135,16 @@ chatib.us###messages_container:style(min-height: 600px !important;)
 !!! LiveScore
 !!
 !
-!banners
+! banners
 livescore.com##.C
 livescore.com##.Vi
 livescore.com##.yj
-!rounded corners
+
+! rounded corners
 livescore.com##.E:style(border-radius: 0 !important;)
 livescore.com##.sc:style(border-radius: 0 !important;)
 livescore.com##.tp:style(border-radius: 0 !important;)
 livescore.com##.ms:style(border-radius: 0 !important;)
 livescore.com##.ek:style(border-radius: 0 !important;)
 livescore.com##.ah:style(border-radius: 0 !important;)
+livescore.com##.pi:style(border-radius: 0 !important;)
