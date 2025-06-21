@@ -93,6 +93,8 @@ imdb.com##:root:style(--ipt-mediaRadius: 0px !important; --ipt-cornerRadius: 0 !
 imdb.com##.ipc-promptable-base.enter-done .ipc-promptable-base__backdrop
 !pro navbar
 imdb.com##.navbar__imdb-pro--toggle
+!video in search results
+imdb.com##.searchResult--video
 !
 !!
 !!!Chatib
