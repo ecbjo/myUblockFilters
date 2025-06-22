@@ -139,6 +139,7 @@ chatib.us###messages_container:style(min-height: 600px !important;)
 livescore.com##.C
 livescore.com##.Vi
 livescore.com##.yj
+livescore.com##.HC
 
 ! rounded corners
 livescore.com##.E:style(border-radius: 0 !important;)
