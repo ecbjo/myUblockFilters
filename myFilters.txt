@@ -2,9 +2,8 @@
 ! Title: My uBlock Filters 2025
 ! Last modified: 2025/06/19
 ! Expires: 1 days
-! Homepage: https://github.com/ecbjo/myUblockFilters
 ! Licence: Unlicensed
-! Version: 1.5
+! Version: 1.6
 !
 !!
 !!! YouTube
