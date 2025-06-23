@@ -3,14 +3,13 @@
 ! Last modified: 2025/06/19
 ! Expires: 1 days
 ! Licence: Unlicensed
-! Version: 1.6
+! Version: 1.7
 
 !
 !!
 !!! YouTube
 !!
 !
-
 ! remove pink fade from youtube playback progress bar
 youtube.com##.ytp-play-progress:style(background: #FF0000 !important;)
 youtube.com##ytd-thumbnail-overlay-resume-playback-renderer #progress.ytd-thumbnail-overlay-resume-playback-renderer:style(background: #FF0000 !important;)
@@ -109,8 +108,7 @@ youtube.com##.ytChipShapeActive:style(background-color: rgba(255,0,0,0.2) !impor
 !!! IMDb
 !!
 !
-
-!bg blur
+! bg blur
 imdb.com##.ipc-page-background:style(background-image: none !important;)
 
 ! rounded posters
@@ -130,7 +128,6 @@ imdb.com##.searchResult--video
 !!! Chatib
 !!
 !
-
 ! chat box
 chatib.us##.msg_history:style(height: 600px !important;)
 chatib.us###messages_container:style(min-height: 600px !important;)
@@ -140,7 +137,6 @@ chatib.us###messages_container:style(min-height: 600px !important;)
 !!! LiveScore
 !!
 !
-
 ! banners
 livescore.com##.C
 livescore.com##.Vi
@@ -170,7 +166,6 @@ livescore.com##.kf
 !!! DuckDuckGo
 !!
 !
-
 ! banners
 duckduckgo.com##.TccjmKV6RraCaCw5L9gd
 duckduckgo.com##.text_promo
