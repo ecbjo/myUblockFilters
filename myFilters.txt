@@ -140,6 +140,7 @@ livescore.com##.Vi
 livescore.com##.yj
 livescore.com##.HC
 livescore.com##.bj
+livescore.com##.jo
 
 ! rounded corners
 livescore.com##.E:style(border-radius: 0 !important;)
@@ -152,3 +153,7 @@ livescore.com##.pi:style(border-radius: 0 !important;)
 
 ! header
 livescore.com##.Ev:style(background: #00000000 !important; border-bottom: 0 !important;)
+
+! mobile bottom
+livescore.com##.EB.bottom
+livescore.com##.kf
