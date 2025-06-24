@@ -128,6 +128,9 @@ imdb.com##.navbar__imdb-pro--toggle
 ! video in search results
 imdb.com##.searchResult--video
 
+! chips
+imdb.com##.ipc-chip:style(border-radius: 0 !important;)
+
 !
 !!
 !!! Chatib
