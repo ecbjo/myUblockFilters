@@ -130,6 +130,7 @@ imdb.com##.searchResult--video
 
 ! chips
 imdb.com##.ipc-chip:style(border-radius: 0 !important;)
+imdb.com##.ipc-chip-list .ipc-chip:style(margin: .5rem .5rem .5rem .5rem !important;)
 
 !
 !!
