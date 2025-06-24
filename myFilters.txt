@@ -67,6 +67,11 @@ youtube.com##.ytSuggestionComponentRoundedSuggestion:style(border-radius: 0 !imp
 youtube.com##.ytSearchboxComponentSuggestionsContainer:style(border-radius: 0 !important;)
 youtube.com##ytd-engagement-panel-section-list-renderer[modern-panels]:not([live-chat-engagement-panel]):style(border-radius: 0 !important;)
 
+! profile tabs
+youtube.com##tabs-divider:style(border-bottom: 0 !important;)
+youtube.com###tabs-divider.ytd-tabbed-page-header:style(border-bottom: 0 !important;)
+youtube.com##.yt-tab-group-shape-wiz__slider:style(background-color: #ff0000 !important; height: 3px !important; border-radius: 1.5px !important;)
+
 ! tooltips
 youtube.com##.ytp-tooltip:not(.ytp-preview)
 
