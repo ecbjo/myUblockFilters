@@ -109,6 +109,9 @@ youtube.com##.ytChipShapeChip:style(height: 25px !important;)
 youtube.com##.ytChipShapeInactive:style(background-color: rgba(255,255,255,0.05) !important;)
 youtube.com##.ytChipShapeActive:style(background-color: rgba(255,0,0,0.2) !important; color: #ffffff !important;)
 
+! player gradient
+youtube.com##.ytp-gradient-bottom
+
 !
 !!
 !!! IMDb
