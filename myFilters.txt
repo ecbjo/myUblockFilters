@@ -66,6 +66,7 @@ youtube.com##ytd-multi-page-menu-renderer:style(border-radius: 0 !important;)
 youtube.com##.ytSuggestionComponentRoundedSuggestion:style(border-radius: 0 !important;)
 youtube.com##.ytSearchboxComponentSuggestionsContainer:style(border-radius: 0 !important;)
 youtube.com##ytd-engagement-panel-section-list-renderer[modern-panels]:not([live-chat-engagement-panel]):style(border-radius: 0 !important;)
+youtube.com##.yt-image-banner-view-model-wiz--inset:style(border-radius: 0 !important;)
 
 ! profile tabs
 youtube.com##tabs-divider:style(border-bottom: 0 !important;)
@@ -187,3 +188,10 @@ duckduckgo.com##.footer
 gemini.google.com##top-bar-actions
 gemini.google.com##.ui-improvements-phase-1:style(border-radius: 0 !important;)
 gemini.google.com##bard-sidenav:style(background-color: #00000000 !important;)
+
+!
+!!
+!!! PW
+!!
+!
+primewire.tf##.providers, .double.sub_titles, #sidebar-chat, #open-chat
