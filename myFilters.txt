@@ -3,13 +3,12 @@
 ! Last modified: 2025/06/19
 ! Expires: 1 days
 ! Licence: Unlicensed
-! Version: 1.7
+! Version: 1.8
 
 !
 !!
 !!! YouTube
-!!
-!
+
 ! remove pink fade from youtube playback progress bar
 youtube.com##.ytp-play-progress:style(background: #FF0000 !important;)
 youtube.com##ytd-thumbnail-overlay-resume-playback-renderer #progress.ytd-thumbnail-overlay-resume-playback-renderer:style(background: #FF0000 !important;)
@@ -117,8 +116,7 @@ youtube.com##.ytp-gradient-bottom
 !
 !!
 !!! IMDb
-!!
-!
+
 ! bg blur
 imdb.com##.ipc-page-background:style(background-image: none !important;)
 
@@ -141,8 +139,7 @@ imdb.com##.ipc-chip-list .ipc-chip:style(margin: .5rem .5rem .5rem .5rem !import
 !
 !!
 !!! Chatib
-!!
-!
+
 ! chat box
 chatib.us##.msg_history:style(height: 600px !important;)
 chatib.us###messages_container:style(min-height: 600px !important;)
@@ -150,8 +147,6 @@ chatib.us###messages_container:style(min-height: 600px !important;)
 !
 !!
 !!! LiveScore
-!!
-!
 ! banners
 livescore.com##.C
 livescore.com##.Vi
@@ -179,8 +174,6 @@ livescore.com##.kf
 !
 !!
 !!! DuckDuckGo
-!!
-!
 duckduckgo.com##.TccjmKV6RraCaCw5L9gd
 duckduckgo.com##.text_promo
 duckduckgo.com##.footer
@@ -188,8 +181,6 @@ duckduckgo.com##.footer
 !
 !!
 !!! Google Gemini
-!!
-!
 gemini.google.com##top-bar-actions
 gemini.google.com##.ui-improvements-phase-1:style(border-radius: 0 !important;)
 gemini.google.com##bard-sidenav:style(background-color: #00000000 !important;)
@@ -197,6 +188,24 @@ gemini.google.com##bard-sidenav:style(background-color: #00000000 !important;)
 !
 !!
 !!! PW
-!!
-!
 primewire.tf##.providers, .double.sub_titles, #sidebar-chat, #open-chat
+
+!
+!!
+!!! EP
+eporner.com###headholder > [href]
+eporner.com###toptopbel, .toptopbel2, #toptopbel3, #toptopbelin:style(background-image: none !important;)
+eporner.com###toptopbelin a:style(background-image: none !important;)
+eporner.com###top2 .tcolor :style(background: #AE000000 !important;)
+eporner.com###logosvg:style(fill: #ffffff5e !important;)
+eporner.com##.video-js .vjs-control-bar:style(background: none !important;)
+eporner.com###movieplayer-left:style(width: 88% !important;)
+eporner.com##.vjs-docker
+eporner.com###commentdiv
+eporner.com##footer
+eporner.com###rec-for-country
+eporner.com##div.mainbelnew.f16.toptopbel2:nth-of-type(5)
+eporner.com##.numlist2:style(border: none !important; background: none !important; margin-bottom: 0 !important;)
+eporner.com###mainBlogPosts
+eporner.com##div.toptopbel2:nth-of-type(9)
+eporner.com##.footer-text
