@@ -67,6 +67,7 @@ youtube.com##.ytSuggestionComponentRoundedSuggestion:style(border-radius: 0 !imp
 youtube.com##.ytSearchboxComponentSuggestionsContainer:style(border-radius: 0 !important;)
 youtube.com##ytd-engagement-panel-section-list-renderer[modern-panels]:not([live-chat-engagement-panel]):style(border-radius: 0 !important;)
 youtube.com##.yt-image-banner-view-model-wiz--inset:style(border-radius: 0 !important;)
+youtube.com##ytd-post-renderer[rounded-container]:style(border-radius: 0 !important;)
 
 ! profile tabs
 youtube.com##tabs-divider:style(border-bottom: 0 !important;)
