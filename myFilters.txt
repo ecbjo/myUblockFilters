@@ -209,3 +209,9 @@ eporner.com##.numlist2:style(border: none !important; background: none !importan
 eporner.com###mainBlogPosts
 eporner.com##div.toptopbel2:nth-of-type(9)
 eporner.com##.footer-text
+
+!
+!!
+!!! SB
+spankbang.com###video_container #main_video_player.video-js.vjs-theme-sb .vjs-control-bar:style(background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #00000000 100%) !important;)
+spankbang.com###main_video_player_html5_api:style(border-radius: 0 !important;)
