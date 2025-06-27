@@ -199,7 +199,7 @@ eporner.com###toptopbelin a:style(background-image: none !important;)
 eporner.com###top2 .tcolor :style(background: #AE000000 !important;)
 eporner.com###logosvg:style(fill: #ffffff5e !important;)
 eporner.com##.video-js .vjs-control-bar:style(background: none !important;)
-eporner.com###movieplayer-left:style(width: 88% !important;)
+eporner.com###movieplayer-left:style(width: 85% !important;)
 eporner.com##.vjs-docker
 eporner.com###commentdiv
 eporner.com##footer
