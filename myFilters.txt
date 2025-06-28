@@ -143,6 +143,12 @@ imdb.com##.ipc-chip-list .ipc-chip:style(margin: .5rem .5rem .5rem .5rem !import
 ! chat box
 chatib.us##.msg_history:style(height: 600px !important;)
 chatib.us###messages_container:style(min-height: 600px !important;)
+chatib.us##.random_block
+chatib.us###pills-game-tab
+chatib.us###pills-ai-chat-tab
+chatib.us###pills-chatrooms-tab
+chatib.us##.chatroomdropdown
+chatib.us##.gamesdrop
 
 !
 !!
