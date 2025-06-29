@@ -221,3 +221,8 @@ eporner.com##.footer-text
 !!! SB
 spankbang.com###video_container #main_video_player.video-js.vjs-theme-sb .vjs-control-bar:style(background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #00000000 100%) !important;)
 spankbang.com###main_video_player_html5_api:style(border-radius: 0 !important;)
+spankbang.com##footer
+spankbang.com##section.embed
+spankbang.com##header.main-header:style(background-color: #60140c00 !important;)
+spankbang.com##.thumb:style(border-radius: 0 !important;)
+spankbang.com##.live_cam_header_2
