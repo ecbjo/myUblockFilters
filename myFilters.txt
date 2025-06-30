@@ -195,6 +195,7 @@ gemini.google.com##bard-sidenav:style(background-color: #00000000 !important;)
 !!
 !!! PW
 primewire.tf##.providers, .double.sub_titles, #sidebar-chat, #open-chat
+primewire.tf##img:style(border-radius: 0 !important;)
 
 !
 !!
@@ -232,3 +233,4 @@ spankbang.com###comment_box_anchor
 !!
 !!! Brave Search
 search.brave.com##.download-cta
+search.brave.com##footer
