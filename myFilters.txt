@@ -215,7 +215,6 @@ eporner.com##.numlist2:style(border: none !important; background: none !importan
 eporner.com###mainBlogPosts
 eporner.com##div.toptopbel2:nth-of-type(9)
 eporner.com##.footer-text
-
 !
 !!
 !!! SB
@@ -229,3 +228,7 @@ spankbang.com##.live_cam_header_2
 spankbang.com##.left:style(flex-grow: 0 !important; width: 70% !important;)
 spankbang.com###playlist_holder
 spankbang.com###comment_box_anchor
+!
+!!
+!!! Brave Search
+search.brave.com##.download-cta
