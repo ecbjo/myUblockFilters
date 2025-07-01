@@ -161,6 +161,7 @@ livescore.com##.HC
 livescore.com##.bj
 livescore.com##.jo
 livescore.com##.Xi
+livescore.com##.uf
 
 ! rounded corners
 livescore.com##.E:style(border-radius: 0 !important;)
