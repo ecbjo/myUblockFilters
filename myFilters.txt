@@ -216,6 +216,7 @@ eporner.com##.numlist2:style(border: none !important; background: none !importan
 eporner.com###mainBlogPosts
 eporner.com##div.toptopbel2:nth-of-type(9)
 eporner.com##.footer-text
+eporner.com###adstripe
 !
 !!
 !!! SB
