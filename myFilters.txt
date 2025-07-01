@@ -232,6 +232,7 @@ spankbang.com##.live_cam_header_2
 spankbang.com##.left:style(flex-grow: 0 !important; width: 70% !important;)
 spankbang.com###playlist_holder
 spankbang.com###comment_box_anchor
+spankbang.com##.rounded:style(border-radius: 0 !important;)
 !
 !!
 !!! Brave Search
