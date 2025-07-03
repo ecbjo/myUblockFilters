@@ -238,3 +238,8 @@ spankbang.com##.rounded:style(border-radius: 0 !important;)
 !!! Brave Search
 search.brave.com##.download-cta
 search.brave.com##footer
+!
+!!
+!!! Bunkr
+bunkr.cr##.z-10
+bunkr.cr##.bg-soft:style(background-color: unset !important;)
