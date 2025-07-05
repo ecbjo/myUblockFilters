@@ -149,6 +149,9 @@ chatib.us###pills-ai-chat-tab
 chatib.us###pills-chatrooms-tab
 chatib.us##.chatroomdropdown
 chatib.us##.gamesdrop
+chatib.us##.random
+chatib.us##.favorite
+chatib.us###footer
 
 !
 !!
