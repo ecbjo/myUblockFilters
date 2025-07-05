@@ -154,6 +154,7 @@ chatib.us##.gamesdrop
 !!
 !!! LiveScore
 ! banners
+livescore.com##.nj
 livescore.com##.C
 livescore.com##.Vi
 livescore.com##.yj
