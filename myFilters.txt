@@ -181,6 +181,7 @@ livescore.com##.Cv:style(background: #00000000 !important; border-bottom: 0 !imp
 livescore.com##.ios
 livescore.com##.EB.bottom
 livescore.com##.kf
+livescore.com##.IC.android.bottom
 
 !
 !!
