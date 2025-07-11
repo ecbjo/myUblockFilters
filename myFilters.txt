@@ -203,6 +203,7 @@ gemini.google.com##bard-sidenav:style(background-color: #00000000 !important;)
 grok.com##.dark\:bg-surface-inset:is(.dark *):style(background-color: hsl(0deg 0% 16.68%) !important;)
 grok.com##.bg-surface, .bg-surface-base:style(background-color: hsl(0deg 0.49% 13.47%) !important;)
 grok.com##.bg-background:style(background-color: hsl(0deg 0.49% 13.47) !important;)
+grok.com##.\@\[64rem\]\:\[--content-max-width\:48rem\]:style(--content-max-width: 70rem !important;)
 
 !
 !!
@@ -235,6 +236,7 @@ eporner.com###mainBlogPosts
 eporner.com##div.toptopbel2:nth-of-type(9)
 eporner.com##.footer-text
 eporner.com###adstripe
+
 !
 !!
 !!! SB
@@ -249,11 +251,13 @@ spankbang.com##.left:style(flex-grow: 0 !important; width: 70% !important;)
 spankbang.com###playlist_holder
 spankbang.com###comment_box_anchor
 spankbang.com##.rounded:style(border-radius: 0 !important;)
+
 !
 !!
 !!! Brave Search
 search.brave.com##.download-cta
 search.brave.com##footer
+
 !
 !!
 !!! Bunkr
