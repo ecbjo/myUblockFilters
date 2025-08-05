@@ -217,8 +217,10 @@ chatgpt.com##.relative.text-token-text-secondary
 !!
 !!! PW
 primewire.tf##.providers, .double.sub_titles, #sidebar-chat, #open-chat
+primewire.tf##sidebar-chat
 primewire.tf##img:style(border-radius: 0 !important;)
 primewire.mov##.providers, .double.sub_titles, #sidebar-chat, #open-chat
+primewire.mov##sidebar-chat
 primewire.mov##img:style(border-radius: 0 !important;)
 
 !
