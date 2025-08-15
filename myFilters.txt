@@ -271,3 +271,8 @@ search.brave.com##footer
 bunkr.cr##.z-10
 bunkr.cr##.bg-soft:style(background-color: unset !important;)
 bunkr.cr##.plyr--video .plyr__controls:style(background: none !important;)
+
+!
+!!
+!!! Erome
+erome.com##.img-blur
