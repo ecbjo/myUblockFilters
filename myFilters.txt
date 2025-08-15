@@ -167,6 +167,8 @@ livescore.com##.uf
 livescore.com##.sh
 livescore.com##.Kw
 livescore.com##.Gh
+livescore.com##.dh
+livescore.com##.cd
 
 ! rounded corners
 livescore.com##.E:style(border-radius: 0 !important;)
@@ -179,9 +181,12 @@ livescore.com##.pi:style(border-radius: 0 !important;)
 
 ! header
 livescore.com##.Cv:style(background: #00000000 !important; border-bottom: 0 !important;)
+livescore.com##.up:style(background: #00000000 !important; border-bottom: 0 !important;)
 
 ! mobile bottom
 livescore.com##.ios
+livescore.com##.sy.ios.bottom
+livescore.com##.sy.android.bottom
 livescore.com##.EB.bottom
 livescore.com##.kf
 livescore.com##.IC.android.bottom
