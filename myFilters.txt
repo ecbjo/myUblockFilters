@@ -280,7 +280,7 @@ bunkr.cr##.plyr--video .plyr__controls:style(background: none !important;)
 !
 !!
 !!! Erome
-erome.com###disclaimer
+!erome.com###disclaimer
 erome.com##.img-blur
 erome.com##.footer
 erome.com##.navbar-inverse:style(background-color: unset !important;)
