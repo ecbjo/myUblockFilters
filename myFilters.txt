@@ -305,3 +305,5 @@ pornhub.com###popsByTrafficJunky
 pornhub.com###footerMenu_advertising
 pornhub.com##.ad-link
 pornhub.com##.carouselOverlay
+pornhub.com##.trendingNowWrapper
+pornhub.com##.trendingPillsTitle
