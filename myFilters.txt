@@ -283,3 +283,23 @@ bunkr.cr##.plyr--video .plyr__controls:style(background: none !important;)
 erome.com##.img-blur
 erome.com##.footer
 erome.com##.navbar-inverse:style(background-color: unset !important;)
+
+!
+!!
+!!! PH
+www.pornhub.com##.networkBarWrapper
+www.pornhub.com###ccdbcggcdd
+www.pornhub.com##.footerContentWrapper
+www.pornhub.com##.tp0icmskf
+www.pornhub.com##.sideAds
+www.pornhub.com##.ikhobgc8f
+www.pornhub.com###welcome
+www.pornhub.com##debad
+www.pornhub.com##bbdec
+www.pornhub.com###under-player-comments
+www.pornhub.com##.uploadBtnContent
+www.pornhub.com##.livechatt
+www.pornhub.com##ccbec
+www.pornhub.com##.yi2j8f
+www.pornhub.com##cbcbd
+www.pornhub.com##.becomeFcOrangeBtn
