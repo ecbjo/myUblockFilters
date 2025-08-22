@@ -69,6 +69,7 @@ youtube.com##ytd-post-renderer[rounded-container]:style(border-radius: 0 !import
 youtube.com##ytd-text-inline-expander[engagement-panel]:style(border-radius: 0 !important;)
 youtube.com##.ytThumbnailViewModelLarge:style(border-radius: 0px !important;)
 youtube.com##.ytVideoMetadataCarouselViewModelHost:style(border-radius: 0px !important;)
+youtube.com##.ytThumbnailViewModelMedium:style(border-radius: 0px !important;)
 
 ! profile tabs
 youtube.com##tabs-divider:style(border-bottom: 0 !important;)
