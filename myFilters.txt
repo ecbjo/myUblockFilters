@@ -67,6 +67,7 @@ youtube.com##ytd-engagement-panel-section-list-renderer[modern-panels]:not([live
 youtube.com##.yt-image-banner-view-model-wiz--inset:style(border-radius: 0 !important;)
 youtube.com##ytd-post-renderer[rounded-container]:style(border-radius: 0 !important;)
 youtube.com##ytd-text-inline-expander[engagement-panel]:style(border-radius: 0 !important;)
+youtube.com##.ytThumbnailViewModelLarge:style(border-radius: 0px !important;)
 
 ! profile tabs
 youtube.com##tabs-divider:style(border-bottom: 0 !important;)
