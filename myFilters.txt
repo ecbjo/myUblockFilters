@@ -99,6 +99,7 @@ youtube.com###country-code
 
 ! search button bg
 youtube.com##.ytSearchboxComponentSearchButtonDark:style(background-color: hsla(0,0%,100%,.0)!important;)
+youtube.com##.ytSearchboxComponentInputBox:style(border: 0px solid !important;)
 
 ! create bg
 youtube.com##.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--tonal:style(background: rgba(255,255,255,0.0) !important;)
