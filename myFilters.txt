@@ -178,6 +178,8 @@ livescore.com##.Kw
 livescore.com##.Gh
 livescore.com##.dh
 livescore.com##.cd
+livescore.com##.Bh
+livescore.com##.Sh
 
 ! rounded corners
 livescore.com##.E:style(border-radius: 0 !important;)
