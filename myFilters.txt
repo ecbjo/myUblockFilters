@@ -161,8 +161,10 @@ chatib.us###footer
 !!
 !!! LiveScore
 ! banners
+livescore.com###__livescore > div:nth-of-type(1) > div:nth-of-type(2)
 livescore.com##.nj
 livescore.com##.C
+livescore.com##.Uv
 livescore.com##.Vi
 livescore.com##.yj
 livescore.com##.HC
@@ -189,6 +191,7 @@ livescore.com##.pi:style(border-radius: 0 !important;)
 ! header
 livescore.com##.Cv:style(background: #00000000 !important; border-bottom: 0 !important;)
 livescore.com##.up:style(background: #00000000 !important; border-bottom: 0 !important;)
+livescore.com##.Hq:style(background: #00000000 !important; border-bottom: 0 !important;)
 
 ! mobile bottom
 livescore.com##.ios
