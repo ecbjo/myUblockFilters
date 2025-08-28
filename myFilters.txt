@@ -92,6 +92,7 @@ youtube.com##.ytd-playlist-header-renderer.style-scope.immersive-header-backgrou
 youtube.com##.image-wrapper.ytd-hero-playlist-thumbnail-renderer:style(border-radius: 0 !important;)
 youtube.com##.yt-content-preview-image-view-model-wiz--large-rounded-image:style(border-radius: 0 !important;)
 youtube.com##.page-header-view-model-wiz__page-header-background
+youtube.com##.header.ytd-playlist-panel-renderer:style(background-color: unset !important;)
 
 ! country code
 youtube.com###country-code
