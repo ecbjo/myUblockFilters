@@ -1,9 +1,8 @@
 [uBlock Origin]
 ! Title: My uBlock Filters 2025
-! Last modified: 2025/06/19
 ! Expires: 1 days
 ! Licence: Unlicensed
-! Version: 1.8
+! Version: 1.9
 
 !
 !!
