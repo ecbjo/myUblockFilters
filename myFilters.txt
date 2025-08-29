@@ -93,6 +93,8 @@ youtube.com##.image-wrapper.ytd-hero-playlist-thumbnail-renderer:style(border-ra
 youtube.com##.yt-content-preview-image-view-model-wiz--large-rounded-image:style(border-radius: 0 !important;)
 youtube.com##.page-header-view-model-wiz__page-header-background
 youtube.com##.header.ytd-playlist-panel-renderer:style(background-color: unset !important;)
+youtube.com##header.ytd-engagement-panel-title-header-renderer:style(background-color: unset !important;)
+youtube.com##subheader.ytd-engagement-panel-title-header-renderer:not(:empty):style(background-color: unset !important; border-top: 0px !important;)
 
 ! country code
 youtube.com###country-code
