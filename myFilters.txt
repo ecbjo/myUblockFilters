@@ -322,3 +322,12 @@ pornhub.com##.ad-link
 pornhub.com##.carouselOverlay
 pornhub.com##.trendingNowWrapper
 pornhub.com##.trendingPillsTitle
+
+!
+!!
+!!! Other
+bdsmlr.com##.fancybox-container
+||coomer.st/static/amouranth_wall.jpg$image
+||coomer.st/static/amouranth.png$image
+||coomer.st/static/amouranth_wall.jpg$image
+||coomer.st/static/amouranth.png$image
