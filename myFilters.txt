@@ -322,6 +322,7 @@ pornhub.com##.ad-link
 pornhub.com##.carouselOverlay
 pornhub.com##.trendingNowWrapper
 pornhub.com##.trendingPillsTitle
+pornhub.com##+js(set-cookie, accessAgeDisclaimerPH, 2)
 
 !
 !!
