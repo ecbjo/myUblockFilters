@@ -216,13 +216,6 @@ duckduckgo.com##.footer
 
 !
 !!
-!!! Google Gemini
-gemini.google.com##top-bar-actions
-gemini.google.com##.ui-improvements-phase-1:style(border-radius: 0 !important;)
-gemini.google.com##bard-sidenav:style(background-color: #00000000 !important;)
-
-!
-!!
 !!! Grok
 grok.com##.dark\:bg-surface-inset:is(.dark *):style(background-color: hsl(0deg 0% 16.68%) !important;)
 grok.com##.bg-surface, .bg-surface-base:style(background-color: hsl(0deg 0.49% 13.47%) !important;)
