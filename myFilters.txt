@@ -292,6 +292,7 @@ bunkr.cr##.plyr--video .plyr__controls:style(background: none !important;)
 erome.com##.img-blur
 erome.com##.footer
 erome.com##.navbar-inverse:style(background-color: unset !important;)
+erome.com##.sp
 
 !
 !!
