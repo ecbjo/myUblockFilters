@@ -72,6 +72,8 @@ youtube.com##.ytThumbnailViewModelLarge:style(border-radius: 0px !important;)
 youtube.com##.ytVideoMetadataCarouselViewModelHost:style(border-radius: 0px !important;)
 youtube.com##.ytThumbnailViewModelMedium:style(border-radius: 0px !important;)
 youtube.com##.shortsLockupViewModelHostThumbnailParentContainerRounded:style(border-radius: 0px !important;)
+youtube.com##.ytNotificationMultiActionRendererHost:style(border-radius: 0px !important;)
+youtube.com##ytd-rich-metadata-renderer[rounded]:style(border-radius: 0px !important;)
 
 ! profile tabs
 youtube.com##tabs-divider:style(border-bottom: 0 !important;)
