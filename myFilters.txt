@@ -161,32 +161,6 @@ chatib.us##.random
 chatib.us##.favorite
 chatib.us###footer
 
-!
-!!
-!!! LiveScore
-! banners
-livescore.com###__livescore > div:nth-of-type(1) > div:nth-of-type(2)
-livescore.com###skyscraper
-livescore.com##.nj
-livescore.com##.C
-livescore.com##.Uv
-livescore.com##.Vi
-livescore.com##.yj
-livescore.com##.HC
-livescore.com##.bj
-livescore.com##.jo
-livescore.com##.Xi
-livescore.com##.xC
-livescore.com##.uf
-livescore.com##.sh
-livescore.com##.Kw
-livescore.com##.Gh
-livescore.com##.dh
-livescore.com##.cd
-livescore.com##.Bh
-livescore.com##.Sh
-livescore.com##.od
-
 ! rounded corners
 livescore.com##.E:style(border-radius: 0 !important;)
 livescore.com##.sc:style(border-radius: 0 !important;)
