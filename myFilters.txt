@@ -29,7 +29,8 @@ www.youtube.com##.yt-spec-icon-badge-shape__badge:style(background: #CC0000 !imp
 ! remove background transparency from youtube title bar & change color of player settings icon
 youtube.com##html, [light]:style(--yt-frosted-glass-desktop: rgba(255, 255, 255, 1.0) !important; --yt-spec-red-indicator: #FF0000 !important;)
 youtube.com##html[dark], [dark]:style(--yt-frosted-glass-desktop: rgba(15, 15, 15, 1.0) !important; --yt-spec-red-indicator: #FF0000 !important;)
-youtube.com###ytd-masthead[frosted-glass-mode=without-chipbar] #background.ytd-masthead:style(background: rgb(15 15 15)  !important; backdrop-filter: none !important;)
+youtube.com###ytd-masthead[frosted-glass-mode=without-chipbar] #background.ytd-masthead:style(background: rgb(15 15 15)  !important;)
+youtube.com###ytd-masthead[frosted-glass-mode=without-chipbar] #background.ytd-masthead:style(backdrop-filter: none !important;)
 
 ! change color of youtube refresh progress bar
 youtube.com###progress.yt-page-navigation-progress:style(background: #FF0000 !important;)
